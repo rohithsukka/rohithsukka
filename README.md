@@ -64,7 +64,7 @@ Created an application that aggregates news, performs sentiment analysis, and ge
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohithsukka&layout=compact&theme=radical)
 
 ### 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rohithhsukka&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rohithsukka&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ---
 ### 🌟 Professional Highlights
 - 🚀 **90% Automation Success**: Reduced manual data processing from 6hrs/day to 30mins
