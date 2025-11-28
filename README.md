@@ -60,8 +60,8 @@ Created an application that aggregates news, performs sentiment analysis, and ge
 
 ---
 ### 📊 GitHub Stats
-![Eshwar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EshwarAdduri&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EshwarAdduri&layout=compact&theme=radical)
+![Rohith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohithsukka&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohithsukka&layout=compact&theme=radical)
 
 ### 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rohithhsukka&theme=radical&no-frame=false&no-bg=true&margin-w=4)
